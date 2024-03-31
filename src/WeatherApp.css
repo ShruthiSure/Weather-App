@@ -1,0 +1,29 @@
+.App {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  .weather-info {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  .weather-info h2 {
+    margin-top: 0;
+  }
+  
+  .loading {
+    font-style: italic;
+  }
+  
